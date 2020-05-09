@@ -1,0 +1,23 @@
+<Configuration>
+<Add SourcePath="E:\Software\Office_2019_Preview_16.0.9330.2087_x64.part2_Downloadly.ir\Microsoft Office 2019 Preview Build 16.0.9330.2087 (x64)\" OfficeClientEdition="32">
+    <Product ID="WordRetail">
+      <ExcludeApp ID="OneDrive" />
+    </Product>
+    <Product ID="ExcelRetail">
+      <ExcludeApp ID="OneDrive" />
+    </Product>
+    <Product ID="AccessRetail">
+      <ExcludeApp ID="OneDrive" />
+    </Product>
+    <Product ID="PowerPointRetail">
+      <ExcludeApp ID="OneDrive" />
+    </Product>
+</Add>
+<Display Level="Full" AcceptEULA="TRUE" />
+<Updates Enabled="TRUE" Channel="Deferred" />
+</Configuration>
+<!--  OInstallSetting Branch=1  -->
+<!--  OInstallSetting Office=0  -->
+<!--  OInstallSetting Arch=1  -->
+<!--  OInstallSetting Lang=0  -->
+<!--  OInstallSetting Redact=2  -->
